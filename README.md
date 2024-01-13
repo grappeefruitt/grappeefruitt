@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ella</h1>
 <h3 align="center">I love math, programming and learning!</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/search?q=CODING+GIF+cute&tbm=isch&ved=2ahUKEwjMgtCkvtuDAxW-OGIAHR1XB2kQ2-cCegQIABAA&oq=CODING+GIF+cute&gs_lcp=CgNpbWcQAzIECCMQJzIGCAAQCBAeOgUIABCABFDxB1jMGWDSGmgAcAB4AIABT4gB8wSSAQE5mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=fxijZYzHML7xiLMPna6dyAY&bih=1012&biw=1440#imgrc=B4JaJFSOqmeiTM)">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e477yvghb9k2bzvabmcllf9qed0ww7yi337wvnkz9m5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grappeefruitt&label=Profile%20views&color=0e75b6&style=flat" alt="grappeefruitt" /> </p>
 
