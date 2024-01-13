@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ella-sun-231aaa1b6/](https://www.linkedin.com/in/ella-sun-231aaa1b6/)
 
-- 🌱 I love **Dancing, Skiing and Tennis**
+- 🌱 I love **dancing, skiing and tennis**
 
 - 📫 How to reach me **ellasun.syx@gmail.com**
 
