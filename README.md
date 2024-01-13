@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grappeefruitt&label=Profile%20views&color=0e75b6&style=flat" alt="grappeefruitt" /> </p>
 
-- 🌱 I love **Dancing, Skiing and Tennis**
-
-- 👯 I have profound knowledge in **DataGrip, Python, SQL, Tableau, PowerBI**
+- 👯 I have profound knowledge of **DataGrip, Python, SQL, Tableau, PowerBI**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ella-sun-231aaa1b6/](https://www.linkedin.com/in/ella-sun-231aaa1b6/)
+
+- 🌱 I love **Dancing, Skiing and Tennis**
 
 - 📫 How to reach me **ellasun.syx@gmail.com**
 
