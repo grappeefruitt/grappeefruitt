@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ella</h1>
-<h3 align="center">I love math, programming and learning!</h3>
+<h3 align="center">I love math, coding and learning!</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e477yvghb9k2bzvabmcllf9qed0ww7yi337wvnkz9m5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
