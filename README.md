@@ -7,7 +7,7 @@
 
 - 👯 I have profound knowledge of **DataGrip, Python, SQL, Tableau, PowerBI**
 
-- 👨‍💻 My visualization projects are available at [https://public.tableau.com/app/profile/yixuan.sun5140/vizzes)
+- 👨‍💻 My visualization projects are available at (https://public.tableau.com/app/profile/yixuan.sun5140/vizzes)
 
 - 🌱 I love **dancing, skiing and tennis**
 
