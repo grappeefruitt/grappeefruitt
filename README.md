@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grappeefruitt&label=Profile%20views&color=0e75b6&style=flat" alt="grappeefruitt" /> </p>
 
-- 👯 I have profound knowledge of **DataGrip, Python, SQL, Tableau, PowerBI**
+- 👯 I have profound knowledge of **Python, SQL, Tableau and PowerBI**
 
 - 👨‍💻 My visualization projects are available at (https://public.tableau.com/app/profile/yixuan.sun5140/vizzes)
 
