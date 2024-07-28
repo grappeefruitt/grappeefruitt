@@ -7,8 +7,6 @@
 
 - 👯 I have profound knowledge of **Python, SQL, Tableau and PowerBI**
 
-- 👨‍💻 My visualization projects are available at (https://public.tableau.com/app/profile/yixuan.sun5140/vizzes)
-
 - 🌱 I love **dancing, skiing and tennis**
 
 - 📫 How to reach me **ellasun.syx@gmail.com**
